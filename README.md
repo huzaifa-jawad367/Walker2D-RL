@@ -2,6 +2,11 @@
 
 A reinforcement learning project that solves the **Walker2D** control problem using the **Soft Actor Critic (SAC)** algorithm in the **MuJoCo** simulation environment.
 
+## 🎬 Demo Video
+
+[![Watch the Demo](images/demo_thumbnail.png)](https://youtube.com/shorts/Kq5zZWDZNn8?feature=share)
+
+
 ## 🧠 Project Overview
 
 This project implements an off-policy, model-free reinforcement learning algorithm to train a bipedal robot (Walker2D) to walk effectively using torque control on its joints. The Walker2D environment is an extension of the Hopper environment, adding another leg to enable more natural bipedal movement.
