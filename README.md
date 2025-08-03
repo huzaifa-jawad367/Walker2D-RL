@@ -4,8 +4,10 @@ A reinforcement learning project that solves the **Walker2D** control problem us
 
 ## 🎬 Demo Video
 
-[![Watch the Demo](videos/thumbnail.png)](https://youtube.com/shorts/Kq5zZWDZNn8?feature=share)
 
+<a href="https://youtube.com/shorts/Kq5zZWDZNn8?feature=share">
+  <img src="videos/thumbnail.png" alt="Watch the Demo" width="480"/>
+</a>
 
 ## 🧠 Project Overview
 
