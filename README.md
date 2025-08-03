@@ -35,12 +35,21 @@ This project implements an off-policy, model-free reinforcement learning algorit
 - Environment: `Walker2d-v4` (from OpenAI Gym with MuJoCo backend)
 - Training Duration: Up to 1,000,000 timesteps
 
+<img width="271" height="330" alt="image" src="https://github.com/user-attachments/assets/6c771c19-b5ba-4d9f-8ceb-9313a9935a77" />
+<img width="434" height="215" alt="image" src="https://github.com/user-attachments/assets/6edff979-2481-439b-a629-9b6bbed69432" />
+
+
+
+
+
 ### 🧪 Hyperparameter Tuning
 
 - Changed `tau` from 0.005 → 0.01
 - Changed `ent-coefficient` to 0.1
 - Conditional tuning due to limited compute resources (grid search not applied)
 - Tuned parameters: Reward scale, target smoothing coefficient, learning rate
+
+<img width="578" height="302" alt="image" src="https://github.com/user-attachments/assets/a9f313c4-fb08-46ec-b5a1-a667080f9292" />
 
 ## 📊 Results
 
